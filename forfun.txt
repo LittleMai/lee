@@ -8,3 +8,4 @@ never give up!!
 Creating a new branch is quick.again
 Creating a new branch is quick AND simple
 merge with no-ff
+stash
